@@ -88,5 +88,20 @@ git clone https://github.com/rishi02102017/weather-trend-forecasting.git
 cd weather-trend-forecasting
 ```
 ### 2️⃣ Install dependencies:
+```sh
    pip install -r requirements.txt
+```
+### 3️⃣ Run the Jupyter Notebook:
+```sh
+   jupyter notebook
+```
+### 4️⃣ Open weather_forecasting.ipynb and run all cells.
 
+## 📁 Repository Structure
+
+📂 weather-trend-forecasting/ ├── 📄 weather_forecasting.ipynb # Jupyter Notebook with full implementation ├── 📄 report.pdf # Detailed analysis & visualizations ├── 📄 README.md # Project overview & instructions ├── 📄 requirements.txt # Python dependencies 
+
+## 🔗 Submission Details
+- **GitHub Repository:** [weather-trend-forecasting](https://github.com/rishi02102017/weather-trend-forecasting)
+- **Submitted for:** PM Accelerator Internship AI/ML Assessment
+- **Maintainer:** [Jyotishman Das](https://github.com/rishi02102017)
