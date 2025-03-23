@@ -1,4 +1,4 @@
-# weather-trend-forecasting
+# Weather-trend-forecasting
 AI-powered weather forecasting using ML & time-series analysis.
 
 ## 📌 Project Overview
@@ -98,6 +98,5 @@ cd weather-trend-forecasting
 ### 4️⃣ Open weather_forecasting.ipynb and run all cells.
 
 ## 🔗 Submission Details
-- **GitHub Repository:** [weather-trend-forecasting](https://github.com/rishi02102017/weather-trend-forecasting)
 - **Submitted for:** PM Accelerator Internship AI/ML Assessment
 - **Maintainer:** [Jyotishman Das](https://github.com/rishi02102017)
